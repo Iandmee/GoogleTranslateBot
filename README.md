@@ -1,4 +1,4 @@
 # GoogleTranslateBot
-Bot for the text translation using "Google translate"
+Telegram bot for the text translation using "Google translate"
 # Usage
-[Bot](https://t.me/translation12345Bot)
+[Telegram Bot](https://t.me/translation12345Bot)
